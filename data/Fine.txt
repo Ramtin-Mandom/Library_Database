@@ -1,0 +1,11 @@
+fineID	loanID	amount	assessedDate	reason	paymentStatus	paymentDate
+7000	6000	1.25	2026-01-16 10:00:00	Late return	unpaid	\N
+7001	6001	1.75	2026-02-16 10:00:00	Late return	paid	2026-02-20 10:00:00
+7002	6002	2.25	2026-03-16 10:00:00	Late return	unpaid	\N
+7003	6003	2.75	2026-04-16 10:00:00	Late return	paid	2026-04-20 10:00:00
+7004	6004	3.25	2026-05-16 10:00:00	Late return	unpaid	\N
+7005	6005	3.75	2026-06-16 10:00:00	Late return	paid	2026-06-20 10:00:00
+7006	6006	4.25	2026-01-16 10:00:00	Late return	unpaid	\N
+7007	6007	4.75	2026-02-16 10:00:00	Late return	paid	2026-02-20 10:00:00
+7008	6008	5.25	2026-03-16 10:00:00	Late return	unpaid	\N
+7009	6009	5.75	2026-04-16 10:00:00	Late return	paid	2026-04-20 10:00:00

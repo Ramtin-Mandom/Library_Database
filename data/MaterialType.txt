@@ -1,0 +1,11 @@
+typeName	defaultLoanDays
+magazine	7
+scientific journal	7
+print book	21
+online book	14
+record	7
+film	7
+audiobook	14
+graphic novel	21
+local history	14
+reference	7

@@ -1,0 +1,21 @@
+catalogueNo	title	publisher	publicationYear	language	subject	description	standardID	typeName
+4000	Canadian Geographic	Canadian House Press	2010	English	nature	A carefully selected Canadian library resource about Canadian Geographic.	978-1-55555-4000	magazine
+4001	Nature Canada	Canadian House Press	2011	English	science	A carefully selected Canadian library resource about Nature Canada.	978-1-55555-4001	magazine
+4002	BC History Journal	Canadian House Press	2012	English	history	A carefully selected Canadian library resource about BC History Journal.	978-1-55555-4002	magazine
+4003	Quill & Quire	Canadian House Press	2013	English	literature	A carefully selected Canadian library resource about Quill & Quire.	978-1-55555-4003	magazine
+4004	The Walrus	Canadian House Press	2014	English	nature	A carefully selected Canadian library resource about The Walrus.	978-1-55555-4004	magazine
+4005	Canadian Science Review	Canadian House Press	2015	English	science	A carefully selected Canadian library resource about Canadian Science Review.	978-1-55555-4005	scientific journal
+4006	Coastal Ecology	Canadian House Press	2016	English	history	A carefully selected Canadian library resource about Coastal Ecology.	978-1-55555-4006	scientific journal
+4007	Northern Studies	Canadian House Press	2017	English	literature	A carefully selected Canadian library resource about Northern Studies.	978-1-55555-4007	scientific journal
+4008	Public Library Quarterly	Canadian House Press	2018	English	nature	A carefully selected Canadian library resource about Public Library Quarterly.	978-1-55555-4008	scientific journal
+4009	Pacific Arts Review	Canadian House Press	2019	English	science	A carefully selected Canadian library resource about Pacific Arts Review.	978-1-55555-4009	scientific journal
+4010	The Handmaid’s Tale	Canadian House Press	2020	English	history	A carefully selected Canadian library resource about The Handmaid’s Tale.	978-1-55555-4010	print book
+4011	The Book of Negroes	Canadian House Press	2021	English	literature	A carefully selected Canadian library resource about The Book of Negroes.	978-1-55555-4011	online book
+4012	Indian Horse	Canadian House Press	2022	English	nature	A carefully selected Canadian library resource about Indian Horse.	978-1-55555-4012	print book
+4013	Greenwood	Canadian House Press	2023	English	science	A carefully selected Canadian library resource about Greenwood.	978-1-55555-4013	print book
+4014	The Marrow Thieves	Canadian House Press	2024	English	history	A carefully selected Canadian library resource about The Marrow Thieves.	978-1-55555-4014	print book
+4015	Life of Pi	Canadian House Press	2010	English	literature	A carefully selected Canadian library resource about Life of Pi.	978-1-55555-4015	online book
+4016	Station Eleven	Canadian House Press	2011	English	nature	A carefully selected Canadian library resource about Station Eleven.	978-1-55555-4016	print book
+4017	Obasan	Canadian House Press	2012	English	science	A carefully selected Canadian library resource about Obasan.	978-1-55555-4017	online book
+4018	Moon of the Crusted Snow	Canadian House Press	2013	English	history	A carefully selected Canadian library resource about Moon of the Crusted Snow.	978-1-55555-4018	print book
+4019	The Inconvenient Indian	Canadian House Press	2014	English	literature	A carefully selected Canadian library resource about The Inconvenient Indian.	978-1-55555-4019	online book

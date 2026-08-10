@@ -1,0 +1,16 @@
+creatorID	creatorName
+3000	Margaret Atwood
+3001	Alice Munro
+3002	Richard Wagamese
+3003	Esi Edugyan
+3004	Thomas King
+3005	Naomi Klein
+3006	David Suzuki
+3007	Emily St. John Mandel
+3008	Lawrence Hill
+3009	Michael Ondaatje
+3010	Cherie Dimaline
+3011	Yann Martel
+3012	Madeleine Thien
+3013	Waubgeshig Rice
+3014	Joy Kogawa

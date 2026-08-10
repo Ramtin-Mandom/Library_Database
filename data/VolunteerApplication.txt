@@ -1,0 +1,13 @@
+applicationNo	memberNo	applicationDate	areaOfInterest	availability	skills	status	assignmentNotes	reviewerEmployeeNo	eventNo
+12000	1004	2026-07-01 10:00:00	shelving	Weekends	Customer service	pending	\N	\N	\N
+12001	1005	2026-07-01 10:00:00	event support	Weekends	Customer service	approved	Orientation complete	2002	9001
+12002	1006	2026-07-01 10:00:00	shelving	Weekends	Customer service	rejected	\N	2002	\N
+12003	1007	2026-07-01 10:00:00	event support	Weekends	Customer service	completed	Orientation complete	2002	9003
+12004	1008	2026-07-01 10:00:00	shelving	Weekends	Customer service	pending	\N	\N	\N
+12005	1009	2026-07-01 10:00:00	event support	Weekends	Customer service	approved	Orientation complete	2002	9005
+12006	1010	2026-07-01 10:00:00	shelving	Weekends	Customer service	rejected	\N	2002	\N
+12007	1011	2026-07-01 10:00:00	event support	Weekends	Customer service	completed	Orientation complete	2002	9007
+12008	1012	2026-07-01 10:00:00	shelving	Weekends	Customer service	pending	\N	\N	\N
+12009	1013	2026-07-01 10:00:00	event support	Weekends	Customer service	approved	Orientation complete	2002	9009
+12010	1014	2026-07-01 10:00:00	shelving	Weekends	Customer service	rejected	\N	2002	\N
+12011	1015	2026-07-01 10:00:00	event support	Weekends	Customer service	completed	Orientation complete	2002	9011

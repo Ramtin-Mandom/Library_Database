@@ -1,0 +1,11 @@
+employeeNo	fullName	email	phone	jobTitle	hireDate	employmentStatus	supervisorNo
+2000	Grace Park	grace.park@library.ca	604-555-2100	administrator	2021-05-10	active	\N
+2001	Owen Stewart	owen.stewart@library.ca	604-555-2101	event coordinator	2021-05-10	active	2000
+2002	Fatima Ali	fatima.ali@library.ca	604-555-2102	cataloguer	2021-05-10	active	2000
+2003	Julien Moreau	julien.moreau@library.ca	604-555-2103	library assistant	2021-05-10	active	2000
+2004	Priya Shah	priya.shah@library.ca	604-555-2104	librarian	2021-05-10	active	2000
+2005	Caleb Young	caleb.young@library.ca	604-555-2105	event coordinator	2021-05-10	active	2000
+2006	Nora Johnson	nora.johnson@library.ca	604-555-2106	cataloguer	2021-05-10	active	2000
+2007	Samir Haddad	samir.haddad@library.ca	604-555-2107	library assistant	2021-05-10	active	2000
+2008	Ella Robertson	ella.robertson@library.ca	604-555-2108	librarian	2021-05-10	active	2000
+2009	Marcus Wu	marcus.wu@library.ca	604-555-2109	event coordinator	2021-05-10	active	2000

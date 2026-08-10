@@ -1,0 +1,13 @@
+requestNo	memberNo	category	questionDescription	submittedAt	priority	status	response	completedAt	assignedEmployeeNo
+13000	1004	research	Please help me find reliable Canadian resources.	2026-07-15 11:00:00	low	open	\N	\N	\N
+13001	1005	technology	Please help me find reliable Canadian resources.	2026-07-15 11:00:00	normal	assigned	\N	\N	2001
+13002	1006	account	Please help me find reliable Canadian resources.	2026-07-15 11:00:00	high	resolved	Here are several resources and next steps.	2026-07-16 11:00:00	2001
+13003	1007	collection	Please help me find reliable Canadian resources.	2026-07-15 11:00:00	urgent	closed	Here are several resources and next steps.	2026-07-16 11:00:00	2001
+13004	1008	accessibility	Please help me find reliable Canadian resources.	2026-07-15 11:00:00	low	open	\N	\N	\N
+13005	1009	other	Please help me find reliable Canadian resources.	2026-07-15 11:00:00	normal	assigned	\N	\N	2001
+13006	1010	research	Please help me find reliable Canadian resources.	2026-07-15 11:00:00	high	resolved	Here are several resources and next steps.	2026-07-16 11:00:00	2001
+13007	1011	technology	Please help me find reliable Canadian resources.	2026-07-15 11:00:00	urgent	closed	Here are several resources and next steps.	2026-07-16 11:00:00	2001
+13008	1012	account	Please help me find reliable Canadian resources.	2026-07-15 11:00:00	low	open	\N	\N	\N
+13009	1013	collection	Please help me find reliable Canadian resources.	2026-07-15 11:00:00	normal	assigned	\N	\N	2001
+13010	1014	accessibility	Please help me find reliable Canadian resources.	2026-07-15 11:00:00	high	resolved	Here are several resources and next steps.	2026-07-16 11:00:00	2001
+13011	1015	other	Please help me find reliable Canadian resources.	2026-07-15 11:00:00	urgent	closed	Here are several resources and next steps.	2026-07-16 11:00:00	2001

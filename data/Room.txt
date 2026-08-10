@@ -1,0 +1,11 @@
+roomNo	roomName	floor	capacity	accessibility	availabilityStatus
+8000	Cedar Room	1	20	Wheelchair accessible	available
+8001	Salmon Room	2	25	Wheelchair accessible	available
+8002	Mountain Room	3	30	Wheelchair accessible	available
+8003	Harbour Room	1	35	Wheelchair accessible	available
+8004	Maple Room	2	40	Wheelchair accessible	available
+8005	Raven Room	3	45	Wheelchair accessible	available
+8006	Fraser Room	1	50	Wheelchair accessible	available
+8007	Coast Room	2	55	Wheelchair accessible	available
+8008	Garden Room	3	60	Wheelchair accessible	available
+8009	Studio Room	1	65	Wheelchair accessible	maintenance

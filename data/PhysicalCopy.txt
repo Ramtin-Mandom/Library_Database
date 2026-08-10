@@ -1,0 +1,11 @@
+unitID	barcode	shelfLocation	acquisitionDate	condition
+5000	BCPL-5000	Periodicals A1	2026-02-01	good
+5001	BCPL-5001	Periodicals B2	2026-02-01	damaged
+5002	BCPL-5002	Periodicals C3	2026-02-01	lost
+5003	BCPL-5003	Periodicals D4	2026-02-01	good
+5004	BCPL-5004	Periodicals E5	2026-02-01	good
+5005	BCPL-5005	Periodicals F6	2026-02-01	good
+5006	BCPL-5006	Periodicals G7	2026-02-01	good
+5007	BCPL-5007	Periodicals H8	2026-02-01	good
+5008	BCPL-5008	Periodicals I9	2026-02-01	good
+5009	BCPL-5009	Periodicals J10	2026-02-01	good

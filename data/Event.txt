@@ -1,0 +1,13 @@
+eventNo	title	eventType	description	startTime	endTime	maximumAttendance	status	roomNo	organizerEmployeeNo
+9000	Indigenous Voices Book Club	book club	A free community library program.	2027-01-05 18:00:00	2027-01-05 20:00:00	10	scheduled	8000	2001
+9001	Meet a Local Author	author talk	A free community library program.	2027-01-06 18:00:00	2027-01-06 20:00:00	11	cancelled	8001	2002
+9002	Digital Skills Basics	workshop	A free community library program.	2027-01-07 18:00:00	2027-01-07 20:00:00	12	completed	8002	2003
+9003	Community Watercolours	art show	A free community library program.	2027-01-08 18:00:00	2027-01-08 20:00:00	13	scheduled	8003	2004
+9004	Canadian Film Night	film screening	A free community library program.	2027-02-05 18:00:00	2027-02-05 20:00:00	14	scheduled	8004	2005
+9005	Saturday Story Circle	children program	A free community library program.	2027-02-06 18:00:00	2027-02-06 20:00:00	15	scheduled	8005	2006
+9006	Neighbourhood Ideas Forum	community meeting	A free community library program.	2027-02-07 18:00:00	2027-02-07 20:00:00	16	scheduled	8006	2007
+9007	Poetry by the Harbour	book club	A free community library program.	2027-02-08 18:00:00	2027-02-08 20:00:00	17	scheduled	8007	2008
+9008	Family Coding Workshop	author talk	A free community library program.	2027-03-05 18:00:00	2027-03-05 20:00:00	18	scheduled	8008	2009
+9009	Coastal History Talk	workshop	A free community library program.	2027-03-06 18:00:00	2027-03-06 20:00:00	19	scheduled	8009	2001
+9010	Newcomer Reading Circle	art show	A free community library program.	2027-03-07 18:00:00	2027-03-07 20:00:00	20	scheduled	8000	2002
+9011	Seniors Technology Café	film screening	A free community library program.	2027-03-08 18:00:00	2027-03-08 20:00:00	21	scheduled	8001	2003

@@ -1,0 +1,19 @@
+memberNo	fullName	email	phone	mailingAddress	dateJoined	status	expiryDate
+1000	Aisha Khan	aisha.khan@example.ca	604-555-1100	20 Cedar Street, Burnaby, BC	2024-01-15	active	2028-12-31
+1001	Liam Chen	liam.chen@example.ca	604-555-1101	21 Cedar Street, Burnaby, BC	2024-01-15	suspended	2028-12-31
+1002	Sofia Tremblay	sofia.tremblay@example.ca	604-555-1102	22 Cedar Street, Burnaby, BC	2024-01-15	expired	2025-12-31
+1003	Noah Wilson	noah.wilson@example.ca	604-555-1103	23 Cedar Street, Burnaby, BC	2024-01-15	closed	2028-12-31
+1004	Maya Patel	maya.patel@example.ca	604-555-1104	24 Cedar Street, Burnaby, BC	2024-01-15	active	2028-12-31
+1005	Ethan Martin	ethan.martin@example.ca	604-555-1105	25 Cedar Street, Burnaby, BC	2024-01-15	active	2028-12-31
+1006	Olivia Nguyen	olivia.nguyen@example.ca	604-555-1106	26 Cedar Street, Burnaby, BC	2024-01-15	active	2028-12-31
+1007	Lucas Brown	lucas.brown@example.ca	604-555-1107	27 Cedar Street, Burnaby, BC	2024-01-15	active	2028-12-31
+1008	Emma Garcia	emma.garcia@example.ca	604-555-1108	28 Cedar Street, Burnaby, BC	2024-01-15	active	2028-12-31
+1009	Jack Thompson	jack.thompson@example.ca	604-555-1109	29 Cedar Street, Burnaby, BC	2024-01-15	active	2028-12-31
+1010	Amelia Roy	amelia.roy@example.ca	604-555-1110	30 Cedar Street, Burnaby, BC	2024-01-15	active	2028-12-31
+1011	Benjamin Lee	benjamin.lee@example.ca	604-555-1111	31 Cedar Street, Burnaby, BC	2024-01-15	active	2028-12-31
+1012	Charlotte Singh	charlotte.singh@example.ca	604-555-1112	32 Cedar Street, Burnaby, BC	2024-01-15	active	2028-12-31
+1013	William Fraser	william.fraser@example.ca	604-555-1113	33 Cedar Street, Burnaby, BC	2024-01-15	active	2028-12-31
+1014	Isabella Kim	isabella.kim@example.ca	604-555-1114	34 Cedar Street, Burnaby, BC	2024-01-15	active	2028-12-31
+1015	Henry Clarke	henry.clarke@example.ca	604-555-1115	35 Cedar Street, Burnaby, BC	2024-01-15	active	2028-12-31
+1016	Mia Campbell	mia.campbell@example.ca	604-555-1116	36 Cedar Street, Burnaby, BC	2024-01-15	active	2028-12-31
+1017	Daniel Wong	daniel.wong@example.ca	604-555-1117	37 Cedar Street, Burnaby, BC	2024-01-15	active	2028-12-31

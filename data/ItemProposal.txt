@@ -1,0 +1,15 @@
+proposalNo	title	creator	materialType	publicationInformation	sourceType	dateSubmitted	condition	notes	decisionStatus	decisionDate	memberNo	reviewerEmployeeNo
+11000	Donated Canadian Title 1	Margaret Atwood	print book	Vancouver, 2020	member donation	2026-06-01 09:00:00	good	Offered by a community member.	accepted	2026-06-10 09:00:00	1004	2003
+11001	Donated Canadian Title 2	Alice Munro	print book	Vancouver, 2020	member donation	2026-06-01 09:00:00	good	Offered by a community member.	accepted	2026-06-10 09:00:00	1005	2003
+11002	Donated Canadian Title 3	Richard Wagamese	print book	Vancouver, 2020	member donation	2026-06-01 09:00:00	good	Offered by a community member.	accepted	2026-06-10 09:00:00	1006	2003
+11003	Donated Canadian Title 4	Esi Edugyan	print book	Vancouver, 2020	member donation	2026-06-01 09:00:00	good	Offered by a community member.	accepted	2026-06-10 09:00:00	1007	2003
+11004	Donated Canadian Title 5	Thomas King	print book	Vancouver, 2020	member donation	2026-06-01 09:00:00	good	Offered by a community member.	accepted	2026-06-10 09:00:00	1008	2003
+11005	Donated Canadian Title 6	Naomi Klein	print book	Vancouver, 2020	member donation	2026-06-01 09:00:00	good	Offered by a community member.	accepted	2026-06-10 09:00:00	1009	2003
+11006	Donated Canadian Title 7	David Suzuki	print book	Vancouver, 2020	member donation	2026-06-01 09:00:00	good	Offered by a community member.	accepted	2026-06-10 09:00:00	1010	2003
+11007	Donated Canadian Title 8	Emily St. John Mandel	print book	Vancouver, 2020	member donation	2026-06-01 09:00:00	good	Offered by a community member.	accepted	2026-06-10 09:00:00	1011	2003
+11008	Donated Canadian Title 9	Lawrence Hill	print book	Vancouver, 2020	member donation	2026-06-01 09:00:00	good	Offered by a community member.	accepted	2026-06-10 09:00:00	1012	2003
+11009	Donated Canadian Title 10	Michael Ondaatje	print book	Vancouver, 2020	member donation	2026-06-01 09:00:00	good	Offered by a community member.	accepted	2026-06-10 09:00:00	1013	2003
+11010	Donated Canadian Title 11	Cherie Dimaline	print book	Vancouver, 2020	member donation	2026-06-01 09:00:00	good	Offered by a community member.	pending	\N	1014	\N
+11011	Donated Canadian Title 12	Yann Martel	print book	Vancouver, 2020	member donation	2026-06-01 09:00:00	good	Offered by a community member.	under review	\N	1015	\N
+11012	Donated Canadian Title 13	Madeleine Thien	print book	Vancouver, 2020	member donation	2026-06-01 09:00:00	good	Offered by a community member.	rejected	2026-06-10 09:00:00	1016	2003
+11013	Donated Canadian Title 14	Waubgeshig Rice	print book	Vancouver, 2020	member donation	2026-06-01 09:00:00	good	Offered by a community member.	pending	\N	1017	\N
