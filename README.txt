@@ -1,6 +1,5 @@
 CMPT 354 COMMUNITY LIBRARY MINI-PROJECT
-Ramtin Rezaei, Student Number 301582747
-Team member(s): [add names and student numbers if applicable]
+Team members: Ramtin Rezaei, ID: 301582747  ||  Wilson Tu, ID: 301598563
 
 PURPOSE
 This Python/SQLite project implements the BCNF community-library design from Steps 1-3. It stores members, personnel, catalogue and lendable units, loans and fines, rooms and events, proposals, volunteering, and librarian help requests.
@@ -18,11 +17,11 @@ library_app.py: testable database functions and minimal Tkinter graphical interf
 validate_db.py: structural, referential, integrity, count, and business-rule validation.
 tests/test_library_app.py: unittest suite using disposable temporary databases.
 
-COMMANDS (may be run from any working directory)
-  python C:\Users\Ramtin\Desktop\coding\cmpt-354\Mini-Project\code\Library_Database\populate.py --reset
-  python C:\Users\Ramtin\Desktop\coding\cmpt-354\Mini-Project\code\Library_Database\validate_db.py
-  python -m unittest discover -s C:\Users\Ramtin\Desktop\coding\cmpt-354\Mini-Project\code\Library_Database\tests -v
-  python C:\Users\Ramtin\Desktop\coding\cmpt-354\Mini-Project\code\Library_Database\library_app.py
+COMMANDS (run from the Library_Database directory)
+  python populate.py --reset
+  python validate_db.py
+  python -m unittest discover -s tests -v
+  python library_app.py
 
 DATA FORMAT
 Each data file is UTF-8, tab-separated text. Its first row contains column names exactly matching the schema. The literal \N represents SQL NULL; an empty field remains an empty string. populate.py parses files with csv.reader(delimiter="\t"), validates headers and field counts, converts \N to None, and uses parameterized executemany calls. No sample tuple is hardcoded in the loader, schema, or application.
@@ -51,4 +50,4 @@ QUICK UI TEST EXAMPLE
 The example changes library.db. Click "Recreate database" afterward (and confirm) to restore the original sample data. The equivalent command is populate.py --reset.
 
 ASSUMPTIONS
-Dates/timestamps use ISO-8601 text in local library time. Monetary amounts use two-decimal values; application calculations use Decimal before storage. A returned historical loan is accepted regardless of the member's current eligibility. Digital licences stay available until their concurrent-loan limit is reached. Total LibraryUnit subtype participation is checked after population and by validate_db.py; subtype disjointness is enforced immediately by triggers. The named Step .tex sources, lecture PDFs, and SQLite/Python notebooks were not present in the accessible project folders; mp.pdf therefore combines the supplied completed Step 1 (Project_overview.pdf), Step 2 (ER_Diagram.pdf), and Step 3 (BCNF.pdf) without rewriting them.
+Dates/timestamps use ISO-8601 text in local library time. Monetary amounts use two-decimal values; application calculations use Decimal before storage. A returned historical loan is accepted regardless of the member's current eligibility. Digital licences stay available until their concurrent-loan limit is reached. Total LibraryUnit subtype participation is checked after population and by validate_db.py; subtype disjointness is enforced immediately by triggers.
